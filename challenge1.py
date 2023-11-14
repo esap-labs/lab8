@@ -3,7 +3,6 @@ import time
 import torch
 import torch.nn.functional as F
 import torch.optim as optim
-from pyexpat import model
 from torchvision import datasets, transforms
 from tqdm import tqdm
 from utils.models import LinearNet
